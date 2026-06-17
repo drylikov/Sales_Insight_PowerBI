@@ -1,6 +1,5 @@
-
 ![Dashboard Overview](images/overview.png)
-# Sales Data Analysis Report (Power BI)
+# Sales Data Analysis Report (Power BI).
 
 ## 📌 Project Title  
 Sales Data Analysis Dashboard
