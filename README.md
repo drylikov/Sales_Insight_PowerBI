@@ -57,7 +57,6 @@
 
 
 
-
 ![Dashboard Overview](images/overview.png)
 # Sales Data Analysis Report (Power BI)
 
